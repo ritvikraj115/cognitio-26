@@ -10,10 +10,10 @@ const Navbar = ({ logo, onRegisterClick }) => {
     ];
 
     return (
-        <nav className={`sticky top-0 z-50 transition-all duration-300`}>
+        <nav className={`sticky top-0 left-0 right-0 z-50 transition-all duration-300 bg-black/35 border-b border-white/10 shadow-[0_12px_30px_rgba(0,0,0,0.35)]`}>
             <div className='container mx-auto flex items-center justify-between px-6 py-4 md:px-12 lg:px-24'>
                 <img
-                    className='h-12 md:h-16 transition-transform hover:scale-110'
+                    className='h-12 md:h-16 transition-transform hover:scale-110 drop-shadow-[0_6px_16px_rgba(0,0,0,0.5)]'
                     src={logo}
                     alt="Cognitio Logo"
                 />
@@ -24,17 +24,17 @@ const Navbar = ({ logo, onRegisterClick }) => {
                             <a
                                 href={item.url}
                                 onClick={item.action}
-                                className="text-sm md:text-base font-medium hover:text-yellow-300 transition-colors"
+                                className="text-sm md:text-base font-medium hover:text-amber-300 transition-colors"
                             >
                                 {item.name}
                             </a>
-                            <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-yellow-300 group-hover:w-full transition-all duration-300" />
+                            <div className="absolute bottom-0 left-0 w-0 h-0.5 bg-amber-300 group-hover:w-full transition-all duration-300" />
                         </li>
                     ))}
                 </ul>
 
                 <button
-                    className="md:hidden text-white hover:text-yellow-300 focus:outline-none"
+                    className="md:hidden text-white hover:text-amber-300 focus:outline-none"
                     onClick={() => setIsOpen(!isOpen)}
                     aria-label="Toggle menu"
                 >
@@ -63,12 +63,12 @@ const Navbar = ({ logo, onRegisterClick }) => {
                 </button>
 
                 {isOpen && (
-                    <div className="md:hidden absolute top-full left-0 w-full bg-black/95 backdrop-blur-sm py-4 px-6 transition-all duration-300 ease-in-out">
+                    <div className="md:hidden absolute top-full left-0 w-full bg-black/90 py-4 px-6 shadow-[0_20px_40px_rgba(0,0,0,0.45)] transition-all duration-300 ease-in-out">
                         <ul className="flex flex-col gap-4">
                             {menuItems.map((item) => (
                                 <li key={item.name} className="group">
                                     <a
-                                        className="w-full text-left text-white text-lg font-medium hover:text-yellow-300 transition-colors py-3 border-b border-gray-800"
+                                        className="w-full text-left text-white text-lg font-medium hover:text-amber-300 transition-colors py-3 border-b border-slate-800"
                                         onClick={() => {
                                             setIsOpen(false);
                                             if (item.action) item.action();

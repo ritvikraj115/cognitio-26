@@ -1,6 +1,6 @@
 {
   "ep": {
-    "desc": "COGNITIO'25 presents an exciting opportunity to test your mettle through the ELEVATOR PITCH event. Participants will present their unique ideas upon Protoverse and showcase a comprehensive B-PLAN. This plan should include market research, competitor analysis, USP, revenue model, investments required, and marketing strategy. Students will be judged based on these parameters, along with any other relevant points they include.",
+    "desc": "COGNITIO'26 presents an exciting opportunity to test your mettle through the ELEVATOR PITCH event. Participants will present their unique ideas aligned with Mechamorph and showcase a comprehensive B-PLAN. This plan should include market research, competitor analysis, USP, revenue model, investments required, and marketing strategy. Students will be judged based on these parameters, along with any other relevant points they include.",
     "details1": [
       "Team size: 2 students",
       "Open problem statement for innovation"
@@ -23,13 +23,13 @@
         ]
       }
     ],
-    "eh": ["Divyanshu","Aman Mani Jha"],
-    "prize": "8000",
-    "name": "Elevator Pitch",
-    "img": "/events/elevator-pitch.jpg"
+    "eh": ["Anand Yadav","Muskan Kumari"],
+    "prize": "7000",
+    "name": "ELEVATOR PITCH",
+    "img": "/events/Elevator Pitch.png"
   },
   "quiriosity": {
-    "desc": "A prototype is a crucial element in the design and development process. This year's Quriosity will be on Protoverse. To all the quiz geeks out there, brace yourself and be ready for your quizzing mettle to be tested. It is the time to compete with the finest brains of the institute and enrich your quizzing skills. QURIOSITY provides a platform to explore the charm of science and technology. To come up as a winner, you need to possess noetic and quick thinking.",
+    "desc": "Mechamorph - the art of mechanical transformation - is a crucial element in the design and development process. This year's Quriosity will be on Mechamorph. To all the quiz geeks out there, brace yourself and be ready for your quizzing mettle to be tested. It is the time to compete with the finest brains of the institute and enrich your quizzing skills. QURIOSITY provides a platform to explore the charm of science and technology. To come up as a winner, you need to possess noetic and quick thinking.",
     "details1": ["Number of students in a team: 2"],
     "details2": [
       {
@@ -43,13 +43,13 @@
         ]
       }
     ],
-    "eh": ["Faizan","Piyush"],
-    "prize": "6000",
+    "eh": ["Sandeep Shaw"],
+    "prize": "7000",
     "name": "QURIOSITY",
-    "img": "/events/quriosity.jpg"
+    "img": "/events/Quriosity.png"
   },
   "dictumSymposium": {
-    "desc": "Greatest quality of a leader is wisdom of opinion and way of expression. COGNITIO '25 brings you the opportunity to get into the war of words. Buckle up, for this is the event you craved for. Let your larynx vibrate and your words echo the whole house. DICTUM SYMPOSIUM brings all of you the experience of speaking as a leader. The event deals with expression of opinion/defending your stand on corporate issues by highlighting its social, economic, environmental, and technical impacts.",
+    "desc": "Greatest quality of a leader is wisdom of opinion and way of expression. COGNITIO '26 brings you the opportunity to get into the war of words. Buckle up, for this is the event you craved for. Let your larynx vibrate and your words echo the whole house. DICTUM SYMPOSIUM brings all of you the experience of speaking as a leader. The event deals with expression of opinion/defending your stand on corporate issues by highlighting its social, economic, environmental, and technical impacts.",
     "details1": ["Number of students in a team: 2"],
     "details2": [
       {
@@ -72,16 +72,14 @@
       }
     ],
     "eh": [
-     "Ayushi",
-     "Amit",
-     "Khushi"
+     "Aditya Kumar"
     ],
-    "prize": "4500",
+    "prize": "5500",
     "name": "DICTUM SYMPOSIUM",
-    "img": "/events/dictum-symposium.jpg"
+    "img": "/events/Dictum symposium.png"
   },
   "sas": {
-    "desc": "Propulsion systems are highly powerful driving technologies enabling the physical essence of distant places. The event deals with water propulsion system in rocket technology resulting in a working prototype showcasing the application of physical concepts. Put all your concepts of kinematics, aerodynamics & hydraulics to build a Water Rocket that covers the maximum range.",
+    "desc": "Propulsion systems are highly powerful driving technologies enabling the physical essence of distant places. The event deals with water propulsion system in rocket technology resulting in a working Mechamorph build showcasing the application of physical concepts. Put all your concepts of kinematics, aerodynamics & hydraulics to build a Water Rocket that covers the maximum range.",
     "details1": [
       "Number of students in a team: 3",
       "Materials required to build Water Rocket will have to be brought by participants.",
@@ -105,69 +103,101 @@
       {
         "heading": "ROUND 3: PROTOTYPE IT!",
         "points": [
-          "The final and most thrilling round involves transforming your virtual design into a tangible model using 3D printing. Participants will showcase their prototypes and explain how they align with the competition's goals. The best-performing prototype, judged on innovation, functionality, and quality, will claim the title of Protoverse Champion."
+          "The final and most thrilling round involves transforming your virtual design into a tangible model using 3D printing. Participants will showcase their prototypes and explain how they align with the competition's goals. The best-performing prototype, judged on innovation, functionality, and quality, will claim the title of Mechamorph Champion."
         ]
       }
     ],
     "eh": [
-      "Adarsh",
-      "Vikash",
-      "Nikhil",
-      "Shubham"
+      "Chanchal Kumari",
+      "Rishav Kumar",
+      "Premdeep"
     ],
-    "prize": "6000",
-    "name": "SHOOT at SIGHT",
-    "img": "/events/shoot-at-sight.jpg"
+    "prize": "7000",
+    "name": "SHOOT AT SIGHT",
+    "img": "/events/Shoot at sight.png"
   },
-  "protoverse": {
-    "desc": "Step into the exciting world of design, simulation, and innovation with Protoverse, an engaging competition that challenges participants to unleash their creativity and technical skills. This three-round event tests your expertise in CAD software, engineering simulations, and rapid prototyping to determine the ultimate design innovator.",
+  "robowar": {
+    "desc": "COGNITIO '26 presents ROBO WAR - where machines clash and engineering meets aggression. Gear up to witness raw power, precision, and strategy collide in an ultimate battle of bots. Design, build, and unleash your combat robot to dominate the arena. Only the toughest machines and smartest minds survive this war.",
     "details1": [
-      "All should bring their own laptop with charger and extension cord.",
-      "Teams can consist of 2 members."
+      "Weight category: 3 kg (+/- 5%)"
     ],
     "details2": [
       {
-        "heading": "ROUND 1: WORKSHOP + DESIGN IT!",
+        "heading": "ROUND 1: ABSTRACT SUBMISSION",
         "points": [
-          "Participants will use industry-standard software like CATIA or SolidWorks to create a unique and functional design based on the problem statement provided. Also, there will be a workshop held about it. Creativity, precision, and adherence to design requirements will be evaluated in this phase."
+          "Submission of bot design, weapon mechanism, drive system, and combat strategy."
         ]
       },
       {
-        "heading": "ROUND 2: SIMULATE IT!",
+        "heading": "ROUND 2: DESIGN & FABRICATION",
         "points": [
-          "The design created in Round 1 will be tested in a virtual environment using ANSYS simulation software. Participants must analyze the structural integrity, thermal performance, or other relevant parameters of their designs. The goal is to optimize the design for real-world challenges.",
-          "Top 6 teams will advance to Round 3 i.e. final round."
+          "Teams will fabricate their robots using the provided kit and allowed additional materials."
         ]
       },
       {
-        "heading": "ROUND 3: PROTOTYPE IT!",
+        "heading": "ROUND 3: ARENA BATTLE",
         "points": [
-          "The final and most thrilling round involves transforming your virtual design into a tangible model using 3D printing. Participants will showcase their prototypes and explain how they align with the competition's goals. The best-performing prototype, judged on innovation, functionality, and quality, will claim the title of Protoverse Champion."
+          "Robots will fight head-to-head in knockout matches until a winner emerges."
         ]
       }
     ],
     "eh": [
-      "Sougandha",
-      "Aditya Aryan"
+      "Sourav Singh Mahara"
     ],
-    "prize": "6000",
-    "name": "PROTOVERSE",
-    "img": "/events/protoverse.jpg"
+    "prize": "11000",
+    "name": "ROBOWAR",
+    "img": "/events/Robowar.png"
   },
-  "os": {
-    "desc": "Cognitio 25 isn't just limited to technical and managerial events. It also promotes the cultural aspect of a student's life. Open Stage will ensure that none of your expectations goes unfulfilled. Be ready to be mesmerized by the performances of your batchmates. The stage is all yours!",
+  "cultural night": {
+    "desc": "COGNITIO '26 brings you CULTURAL NIGHT - a celebration beyond engineering. After days of competition and innovation, it's time to let loose. Music, dance, energy, and vibes - Cultural Night is where talent takes the spotlight and memories are made.",
     "details1": [
-      "Students can participate either individually or as a team.",
-      "Students can show any kind of talent like singing, dancing, shayari, rapping, etc.",
-      "Maximum time allotted for each performance is 5 minutes.",
-      "Winners will be decided based on judges’ scores and audience votes.",
-      "The event will only be of one round."
+      "Participation: Individual / Group",
+      "Performances include: Dance, Music, Drama, Open Mic"
     ],
-    "details2": [],
-    "eh": ["Aman Utkarsh"],
-    "prize": "4500",
-    "name": "OPEN STAGE",
-    "img": "/events/open-stage.png"
+    "details2": [
+      {
+        "heading": "Event Flow",
+        "points": [
+          "Performances will be shortlisted based on registrations and rehearsals."
+        ]
+      }
+    ],
+    "eh": ["NA"],
+    "prize": "NA",
+    "name": "CULTURAL NIGHT",
+    "img": "/events/Cultural.png"
+  },
+  "lockItIn": {
+    "desc": "COGNITIO '26 presents LOCK IT IN - where fun, chaos, and quick thinking collide. Get ready for an event packed with laughter, energy, and pure entertainment. LOCK IT IN is designed to test not just your knowledge, but your presence of mind, teamwork, and sense of humor. From brain-teasing questions to hilarious performances, this event promises nonstop fun.",
+    "details1": [
+      "Number of students in a team: 4"
+    ],
+    "details2": [
+      {
+        "heading": "ROUND 1: FUN QUIZ",
+        "points": [
+          "An engaging quiz round filled with quirky, general, and surprise questions to test your quick thinking."
+        ]
+      },
+      {
+        "heading": "ROUND 2: DUMB CHARADES",
+        "points": [
+          "No words, only actions. Teams must guess movies, phrases, or situations through hilarious enactments."
+        ]
+      },
+      {
+        "heading": "ROUND 3: KBC-STYLE ROUND",
+        "points": [
+          "A rapid-fire question round inspired by Kaun Banega Crorepati, where strategy, confidence, and teamwork decide the winner."
+        ]
+      }
+    ],
+    "eh": [
+      "MES"
+    ],
+    "prize": "4000",
+    "name": "LOCK IT IN",
+    "img": "/events/lockitin.png"
   },
   "assemblage": {
     "desc": "Strength of mechanical models and engineering structures is an important area of study and experimentation. Concept and principles dealing with truss systems, beam loadings, stress-strain calculation and representation are imperative for evaluating the failure point of structures. Also, the knowledge of material science and vibration is essential to understand the mechanical behaviors and dynamics of the system under consideration. This event deals with fabrication of a bridge model and its strength testing using varied types of loads.",
@@ -190,46 +220,46 @@
       }
     ],
     "eh": [
-      "Nikhil",
-      "Shubham",
-      "Pritish",
-      "Vikash"
+      "Pooja Rani",
+      "Saurabh Kumar",
+      "Adarsh Gupta"
     ],
-    "prize": "6000",
+    "prize": "7000",
     "name": "ASSEMBLAGE",
-    "img": "/events/assemblage.jpg"
+    "img": "/events/Assemblage.png"
   },
-  "rowBoatics": {
-    "desc": "The event spans across 2 rounds, a design submission round and a boat race. The event challenges students to unleash their creativity, innovations, and hands-on experience. A maximum of 4 students are allowed per team. Students may be from different branches and across multiple years.",
+  "Cansys": {
+    "desc": "COGNITIO '26 brings you CANSYS - where design meets analysis. Turn imagination into reality using CAD and CAE tools. This event tests your ability to design, analyze, and justify your model under real-world engineering constraints. Precision, logic, and software skills are the keys to victory.",
     "details1": [
-      "Number of students in a team: 4",
-      "The boat must be able to show clear translational motion in all directions.",
-      "The boat has to start from one corner of the arena and traverse to the other corner, avoiding the arena walls and hazards.",
-      "While doing so, the boat also has to pick up 3 floating items placed in the path.",
-      "At the finish point, the payload must be dropped in the marked area.",
-      "The maximum system voltage should be 12.6V. The boat must be able to carry a payload of at least 80g. The boat itself excluding the payload cannot weigh over 800g."
+      "Number of students in a team: 2"
     ],
     "details2": [
       {
-        "heading": "ROUND 1: ABSTRACT SUBMISSION",
+        "heading": "ROUND 1: PROBLEM STATEMENT",
         "points": [
-          "A design report of the boat is to be submitted which states how the boat solves the given problem statement. The mechanisms used must be stated clearly. An electrical diagram is also required. Any novel ideas if used, also must be stated. Teams who get selected for the first round will move on to Round 2 where they build their boats and compete in the race."
+          "A design problem will be given on the spot."
         ]
       },
       {
-        "heading": "ROUND 2: BOAT RACE",
+        "heading": "ROUND 2: CAD MODELLING",
         "points": [
-          "An arena will be built for the boats. The criteria for winning is time. The boat which completes the given task in the shortest time is declared the winner. The arena will be a water tank of dimensions 15ft by 8ft with a depth of 3ft. Arena layout will be revealed on the spot of the event. There will be one arena hazard with a whirlpool in the middle. If 2 teams have the same time, the event organizers will decide the winner based on maneuverability and control."
+          "Participants must create a 3D model using SolidWorks/CATIA."
+        ]
+      },
+      {
+        "heading": "ROUND 3: ANALYSIS",
+        "points": [
+          "Structural analysis using ANSYS followed by evaluation of results and calculations."
         ]
       }
     ],
     "eh": [
-      "Aditya Aryan",
-      "Aditya Priyadarshi"
+      "Tanisha Srivastava",
+      "Mayank Srivastava"
     ],
-    "prize": "6000",
-    "name": "ROW-BOAT-ICS",
-    "img": "/events/row-boatics.jpg"
+    "prize": "5500",
+    "name": "CANSYS",
+    "img": "/events/Cansys.png"
   },
   "placestation": {
     "desc": "Do you consider yourself an all-rounder? Do you have a unique way of accomplishing goals? Do you stand out in a crowd? Come enter this corporate labyrinth, where one can live and experience the nerve-wracking placement session in a real-time dynamic environment with a series of stations comprising of the comprehensive written test, expressive group discussion as you make your way through the maze to the final round which is the personal interview. It's an all-round competitive event with a motive to guide the students about campus placements and at the same time select the best. So if you think you've got what it takes to make a mark, then do come and be a part of this grand event.",
@@ -258,20 +288,14 @@
       }
     ],
     "eh": [
-      "Manish (DA)",
-      "Divyanshu (DA)",
-      "Aman Mani Jha (DA)",
-      "Amar (Core)",
-      "Astha (Core)",
-      "Aditya Raj (Core)",
-      "Rohan (Core)",
-     "Shaket (SDE)",
-     "Sanyasi (SDE)",
-     "Aman Utkarsh (SDE)"
+      "Priyanka Kumari",
+      "Priyanshu Kumar",
+      "Anuj Niranjan",
+      "Paras Parimal"
     ],
-    "prize": "4500",
+    "prize": "6000",
     "name": "PLACE STATION",
-    "img": "/events/place-station.jpg"
+    "img": "/events/Placestation.png"
   },
   "sellAthon": {
     "desc": "Sale-a-Thon is a thrilling event designed to test your creativity, persuasion skills, and entrepreneurial spirit. Participants will be challenged to turn seemingly useless items into sellable treasures!",
@@ -296,7 +320,7 @@
     ],
     "eh": ["Divyanshu", "Aman Mani Jha"],
     "prize": "4500",
-    "name": "SELL-A-THON",
-    "img": "/events/sell-a-thon.jpg"
+    "name": "LOCK-IT-IN",
+    "img": "/events/lockitin.png"
   }
 }

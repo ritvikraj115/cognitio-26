@@ -7,8 +7,9 @@ const MouseScrollAnimation = ({
 }) => {
     return (
         <div className="flex flex-col items-center justify-center mt-4">
-            <div className="w-10 h-16 bg-white border-2 border-gray-800 rounded-2xl relative flex items-center justify-center">
-                <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+            <a href='#about'>
+            <div className="w-10 h-14 bg-white/90 border-2 border-amber-200/70 rounded-2xl relative flex items-center justify-center shadow-[0_10px_18px_rgba(0,0,0,0.35)]">
+                <div className="absolute top-11/20 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
                     <svg
                         className="animate-bounce"
                         width={size}
@@ -28,6 +29,7 @@ const MouseScrollAnimation = ({
                     </svg>
                 </div>
             </div>
+            </a>
         </div>
     );
 };
