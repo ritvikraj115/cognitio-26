@@ -56,7 +56,7 @@ const Register = ({ onClose }) => {
         if (!formData.firstName.trim()) newErrors.firstName = "First Name is required";
         if (!formData.lastName.trim()) newErrors.lastName = "Last Name is required";
 
-        const registrationNumberPattern = /^(202[1-4])[A-Za-z]{2}[A-Za-z]{2}\d{3}$/;
+        const registrationNumberPattern = /^(202[2-5])[A-Za-z]{2}[A-Za-z]{2}\d{3}$/;
         if (!formData.registrationNumber.trim().toUpperCase()) {
             newErrors.registrationNumber = "Registration Number is required";
         } else if (!registrationNumberPattern.test(formData.registrationNumber)) {
