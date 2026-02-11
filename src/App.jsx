@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from "/logo.png";
+import logo from "/logo (2).png";
 import MouseScrollAnimation from "./components/MouseScrollAnimation";
 import Navbar from "./components/Navbar";
 import About from "./components/About";
