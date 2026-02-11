@@ -65,6 +65,45 @@ const Contact = () => {
             </div>
           </a>
 
+          {/* Instagram card */}
+          <a
+            href="https://www.instagram.com/mes_nitjsr?igsh=MWF6eGF4b29kZ3h0eg=="
+            target="_blank"
+            rel="noreferrer"
+            className="group flex items-center gap-4 rounded-2xl border border-white/[0.06] bg-white/[0.03] backdrop-blur-sm px-6 py-5 transition-all duration-300 hover:border-emerald-500/30 hover:bg-emerald-500/[0.05]"
+          >
+            <div className="flex-shrink-0 flex items-center justify-center w-12 h-12 rounded-xl bg-emerald-500/10 text-emerald-400 group-hover:bg-emerald-500/20 transition-colors">
+              <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round">
+                <path d="M4 8a4 4 0 014-4h8a4 4 0 014 4v8a4 4 0 01-4 4h-8a4 4 0 01-4-4z" />
+                <path d="M9 12a3 3 0 106 0a3 3 0 00-6 0" />
+                <path d="M16.5 7.5l0 .01" />
+              </svg>
+            </div>
+            <div>
+              <p className="text-xs text-slate-500 font-medium uppercase tracking-wider">Instagram</p>
+              <p className="text-white font-medium mt-0.5">@mes_nitjsr</p>
+              <p className="text-slate-400 text-sm">Follow for updates</p>
+            </div>
+          </a>
+
+          {/* Facebook card */}
+          <a
+            href="https://www.facebook.com/mes.nitjsr"
+            target="_blank"
+            rel="noreferrer"
+            className="group flex items-center gap-4 rounded-2xl border border-white/[0.06] bg-white/[0.03] backdrop-blur-sm px-6 py-5 transition-all duration-300 hover:border-emerald-500/30 hover:bg-emerald-500/[0.05]"
+          >
+            <div className="flex-shrink-0 flex items-center justify-center w-12 h-12 rounded-xl bg-emerald-500/10 text-emerald-400 group-hover:bg-emerald-500/20 transition-colors">
+              <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8} strokeLinecap="round" strokeLinejoin="round">
+                <path d="M7 10v4h3v7h4v-7h3l1-4h-4V8a1 1 0 011-1h3V3h-3a5 5 0 00-5 5v2H7z" />
+              </svg>
+            </div>
+            <div>
+              <p className="text-xs text-slate-500 font-medium uppercase tracking-wider">Facebook</p>
+              <p className="text-white font-medium mt-0.5">mes.nitjsr</p>
+              <p className="text-slate-400 text-sm">Join the community</p>
+            </div>
+          </a>
         </div>
 
         {/* Contact form */}
