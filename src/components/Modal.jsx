@@ -29,16 +29,18 @@ const Modal = ({ isOpen, onClose, children }) => {
                 onClick={(e) => e.stopPropagation()}
                 style={{ scrollbarWidth: 'thin', scrollbarColor: '#334155 transparent' }}
             >
-                {/* Close button — z-20 ensures it stays above all content */}
-                <button
-                    onClick={(e) => { e.stopPropagation(); onClose(); }}
-                    className="sticky top-3 float-right mr-3 z-20 inline-flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-slate-800/80 backdrop-blur-sm text-slate-300 hover:bg-red-500/20 hover:text-red-300 hover:border-red-500/30 focus:outline-none focus:ring-2 focus:ring-red-400/50 transition-all duration-200 cursor-pointer"
-                    aria-label="Close modal"
-                >
-                    <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
-                        <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
-                    </svg>
-                </button>
+                {/* Close button (kept in flow without float to avoid layout gap) */}
+                <div className="sticky top-3 z-20 flex justify-end px-3">
+                    <button
+                        onClick={(e) => { e.stopPropagation(); onClose(); }}
+                        className="inline-flex h-9 w-9 items-center justify-center rounded-full border border-white/10 bg-slate-800/80 backdrop-blur-sm text-slate-300 hover:bg-red-500/20 hover:text-red-300 hover:border-red-500/30 focus:outline-none focus:ring-2 focus:ring-red-400/50 transition-all duration-200 cursor-pointer"
+                        aria-label="Close modal"
+                    >
+                        <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5}>
+                            <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
+                        </svg>
+                    </button>
+                </div>
                 <div className="relative">{children}</div>
             </div>
         </div>

@@ -25,7 +25,7 @@ function About() {
             { value: '3', label: 'Days', icon: '' },
             { value: '10+', label: 'Events', icon: '' },
             { value: '500+', label: 'Participants', icon: '' },
-            { value: '₹60K+', label: 'Prize Pool', icon: '' },
+            { value: '₹75K+', label: 'Prize Pool', icon: '' },
           ].map((stat) => (
             <div key={stat.label} className="text-center rounded-2xl border border-slate-200/70 bg-white/60 backdrop-blur-sm px-4 py-5 shadow-sm hover:shadow-md hover:border-emerald-200/50 transition-all duration-300">
               <span className="text-2xl mb-1 block">{stat.icon}</span>

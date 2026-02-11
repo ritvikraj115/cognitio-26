@@ -72,8 +72,7 @@ const Contact = () => {
             </div>
             <div>
               <p className="text-xs text-slate-500 font-medium uppercase tracking-wider">Developers</p>
-              <p className="text-white font-medium mt-0.5">Ritvik Raj</p>
-              <p className="text-slate-400 text-sm">Debdeep Choudhary</p>
+              <p className="text-white font-medium mt-0.5">Debdeep Choudhary</p>
             </div>
           </div>
         </div>
@@ -172,7 +171,7 @@ const Contact = () => {
         <footer className="mt-20 pt-8 border-t border-white/[0.06] text-center">
           <p className="text-slate-500 text-sm">&copy; 2026 Cognitio 26 &middot; 13th–15th February &middot; NIT Jamshedpur</p>
           <p className="mt-2 text-xs text-slate-600">
-            Developed by <span className="text-slate-400">Ritvik Raj</span> & <span className="text-slate-400">Debdeep Choudhary</span>
+            Developed by <span className="text-slate-400">Debdeep Choudhary</span>
           </p>
         </footer>
       </div>

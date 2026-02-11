@@ -288,39 +288,44 @@
       }
     ],
     "eh": [
-      "Priyanka Kumari",
-      "Priyanshu Kumar",
-      "Anuj Niranjan",
-      "Paras Parimal"
+      "Neeraj Kumar",
+      "Satya Ranjan",
+      "Arpit Kumar",
+      "Abha Yadav",
+      "Ajay Prajapati"
     ],
     "prize": "6000",
     "name": "PLACE STATION",
-    "img": "/events/Placestation.png"
+    "img": "/events/playstation2.jpeg"
   },
-  "sellAthon": {
-    "desc": "Sale-a-Thon is a thrilling event designed to test your creativity, persuasion skills, and entrepreneurial spirit. Participants will be challenged to turn seemingly useless items into sellable treasures!",
+  "posterPresentation": {
+    "desc": "COGNITIO \u201926 presents POSTER PRESENTATION \u2014 where ideas speak louder than words. A platform to showcase innovation, research, and creativity through visual storytelling. Present your ideas, defend your concepts, and leave an impact with clarity and confidence.",
     "details1": [
-      "Participants can compete individually or in teams of 2 members.",
-      "Collaboration and innovative thinking are encouraged."
+      "Number of students in a team: 2"
     ],
     "details2": [
       {
-        "heading": "Round Format",
+        "heading": "ROUND 1: ABSTRACT SUBMISSION",
         "points": [
-          "Each participant/team will be given a random item such as an old calendar, broken clock, or any other unconventional material. The goal is to market and sell the item creatively to a hypothetical or real customer.",
-          "A one-page PPT can be prepared to enhance your pitch, but it is not mandatory. The focus is on verbal skills and convincing power."
+          "Submission of abstract based on prescribed themes."
         ]
       },
       {
-        "heading": "Winning Criteria",
+        "heading": "ROUND 2: POSTER PRESENTATION AND PROTOTYPING",
         "points": [
-          "The participant/team that successfully sells their item or demonstrates the best sales pitch will be declared the winner."
+          "Participants will present their posters and prototype and explain their concepts to the judges."
+        ]
+      },
+      {
+        "heading": "ROUND 3: QUESTION & ANSWER",
+        "points": [
+          "Evaluation based on understanding, presentation skills, and originality."
         ]
       }
     ],
-    "eh": ["Divyanshu", "Aman Mani Jha"],
-    "prize": "4500",
-    "name": "LOCK-IT-IN",
-    "img": "/events/lockitin.png"
+    "eh": ["Dr Vijay Kumar Dalla Sir"],
+    "prize": "15000",
+    "name": "POSTER PRESENTATION",
+    "img": "/events/poster present.jpeg"
   }
 }
