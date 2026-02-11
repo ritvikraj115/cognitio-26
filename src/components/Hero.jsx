@@ -5,7 +5,7 @@ function Hero() {
     return (
         <>
 
-            <div className='absolute inset-0 z-0'>
+            <div className='absolute top-0 left-0 right-0 h-screen z-0 overflow-hidden pointer-events-none'>
                 <Waves
                     lineColor="#14b8a6"
                     backgroundColor="rgba(0, 0, 0, 0.0)"

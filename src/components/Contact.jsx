@@ -40,7 +40,7 @@ const Contact = () => {
         </div>
 
         {/* Contact cards row */}
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-5 mb-14">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 mb-14">
           {/* Phone card */}
           <a href="tel:+916205658576" className="group flex items-center gap-4 rounded-2xl border border-white/[0.06] bg-white/[0.03] backdrop-blur-sm px-6 py-5 transition-all duration-300 hover:border-emerald-500/30 hover:bg-emerald-500/[0.05]">
             <div className="flex-shrink-0 flex items-center justify-center w-12 h-12 rounded-xl bg-emerald-500/10 text-emerald-400 group-hover:bg-emerald-500/20 transition-colors">
@@ -65,16 +65,6 @@ const Contact = () => {
             </div>
           </a>
 
-          {/* Developers card */}
-          <div className="group flex items-center gap-4 rounded-2xl border border-white/[0.06] bg-white/[0.03] backdrop-blur-sm px-6 py-5 transition-all duration-300 hover:border-emerald-500/30 hover:bg-emerald-500/[0.05]">
-            <div className="flex-shrink-0 flex items-center justify-center w-12 h-12 rounded-xl bg-emerald-500/10 text-emerald-400 group-hover:bg-emerald-500/20 transition-colors">
-              <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8}><path strokeLinecap="round" strokeLinejoin="round" d="M17.25 6.75L22.5 12l-5.25 5.25m-10.5 0L1.5 12l5.25-5.25m7.5-3l-4.5 16.5" /></svg>
-            </div>
-            <div>
-              <p className="text-xs text-slate-500 font-medium uppercase tracking-wider">Developers</p>
-              <p className="text-white font-medium mt-0.5">Debdeep Choudhary</p>
-            </div>
-          </div>
         </div>
 
         {/* Contact form */}
@@ -171,7 +161,7 @@ const Contact = () => {
         <footer className="mt-20 pt-8 border-t border-white/[0.06] text-center">
           <p className="text-slate-500 text-sm">&copy; 2026 Cognitio 26 &middot; 13th–15th February &middot; NIT Jamshedpur</p>
           <p className="mt-2 text-xs text-slate-600">
-            Developed by <span className="text-slate-400">Debdeep Choudhary</span>
+            Developed by <span className="text-slate-400">Ritvik Raj</span> and <span className="text-slate-400">Debdeep Choudhary</span>
           </p>
         </footer>
       </div>

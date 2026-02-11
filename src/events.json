@@ -72,38 +72,35 @@
       }
     ],
     "eh": [
-     "Aditya Kumar"
+     "Aditya Kumar",
+     "Aryan Kumar"
     ],
     "prize": "5500",
     "name": "DICTUM SYMPOSIUM",
     "img": "/events/Dictum symposium.png"
   },
   "sas": {
-    "desc": "Propulsion systems are highly powerful driving technologies enabling the physical essence of distant places. The event deals with water propulsion system in rocket technology resulting in a working Mechamorph build showcasing the application of physical concepts. Put all your concepts of kinematics, aerodynamics & hydraulics to build a Water Rocket that covers the maximum range.",
+    "desc": "COGNITIO '26 presents SHOOT AT SIGHT - where physics takes flight and precision decides victory. Propulsion, aerodynamics, and strategy come together in this thrilling technical event. Participants will design and launch a water rocket using fundamental principles of kinematics and fluid mechanics. Accuracy, range, and consistency are the ultimate goals - miss the mark and you're out.",
     "details1": [
-      "Number of students in a team: 3",
-      "Materials required to build Water Rocket will have to be brought by participants.",
-      "The team members will have to launch their Water Rocket themselves under the supervision of the event coordinators.",
-      "The participants will get three chances to launch their model. The maximum range covered out of the three will be taken for consideration."
+      "Number of students in a team: 3"
     ],
     "details2": [
       {
-        "heading": "ROUND 1: WORKSHOP + DESIGN IT!",
+        "heading": "ROUND 1: WRITTEN TEST",
         "points": [
-          "Participants will use industry-standard software like CATIA or SolidWorks to create a unique and functional design based on the problem statement provided. Also, there will be a workshop held about it. Creativity, precision, and adherence to design requirements will be evaluated in this phase."
+          "A written test involving concepts of kinematics, aerodynamics, propulsion, and hydraulics."
         ]
       },
       {
-        "heading": "ROUND 2: SIMULATE IT!",
+        "heading": "ROUND 2: ROCKET FABRICATION & LAUNCH",
         "points": [
-          "The design created in Round 1 will be tested in a virtual environment using ANSYS simulation software. Participants must analyze the structural integrity, thermal performance, or other relevant parameters of their designs. The goal is to optimize the design for real-world challenges.",
-          "Top 6 teams will advance to Round 3 i.e. final round."
+          "Teams will build their water rocket using self-brought materials and launch it under the supervision of event coordinators."
         ]
       },
       {
-        "heading": "ROUND 3: PROTOTYPE IT!",
+        "heading": "ROUND 3: FINAL LAUNCH",
         "points": [
-          "The final and most thrilling round involves transforming your virtual design into a tangible model using 3D printing. Participants will showcase their prototypes and explain how they align with the competition's goals. The best-performing prototype, judged on innovation, functionality, and quality, will claim the title of Mechamorph Champion."
+          "Each team will get three chances to launch their rocket. The maximum range achieved out of the three attempts will be considered for final evaluation."
         ]
       }
     ],
@@ -168,27 +165,34 @@
     "img": "/events/Cultural.png"
   },
   "lockItIn": {
-    "desc": "COGNITIO '26 presents LOCK IT IN - where fun, chaos, and quick thinking collide. Get ready for an event packed with laughter, energy, and pure entertainment. LOCK IT IN is designed to test not just your knowledge, but your presence of mind, teamwork, and sense of humor. From brain-teasing questions to hilarious performances, this event promises nonstop fun.",
+    "desc": "COGNITIO '26 presents LOCK IT IN - where strategy meets spontaneity and only the sharpest minds survive. Quick thinking, coordination, and competitive spirit collide in this high-energy multi-round showdown. LOCK IT IN is not just a game - it's a battle of wit, reflex, and tactical brilliance. From cracking fun challenges to strategic face-offs and an electrifying final sprint, every round eliminates the weak and sharpens the strong. Only those who think fast, adapt faster, and stay locked under pressure will claim victory.",
     "details1": [
-      "Number of students in a team: 4"
+      "Number of students in a team: 3"
     ],
     "details2": [
       {
         "heading": "ROUND 1: FUN QUIZ",
         "points": [
-          "An engaging quiz round filled with quirky, general, and surprise questions to test your quick thinking."
+          "An exciting and dynamic quiz round designed to test general awareness, logical thinking, pop culture knowledge, and spontaneous problem-solving.",
+          "Teams must \"lock in\" their answers within limited time - hesitation could cost qualification.",
+          "Only the top-performing teams move forward."
         ]
       },
       {
-        "heading": "ROUND 2: DUMB CHARADES",
+        "heading": "ROUND 2: BLIND KILL",
         "points": [
-          "No words, only actions. Teams must guess movies, phrases, or situations through hilarious enactments."
+          "Strategy takes center stage.",
+          "Qualified teams will enter a tactical face-off where they must choose to attack or defend against competing teams. Decisions must be made with limited information, testing coordination, deception skills, and game sense.",
+          "Every move counts - one wrong call and you're eliminated.",
+          "Only the smartest survivors advance."
         ]
       },
       {
-        "heading": "ROUND 3: KBC-STYLE ROUND",
+        "heading": "ROUND 3: FUN RACE (THE FINAL SHOWDOWN)",
         "points": [
-          "A rapid-fire question round inspired by Kaun Banega Crorepati, where strategy, confidence, and teamwork decide the winner."
+          "The ultimate challenge of speed, teamwork, and presence of mind.",
+          "Finalist teams will compete in an exhilarating fun race filled with surprise tasks and mini-obstacles.",
+          "Energy, communication, and execution will decide who crosses the finish line first and locks in the crown."
         ]
       }
     ],
